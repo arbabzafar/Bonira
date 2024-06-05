@@ -1,0 +1,70 @@
+@media only screen and (max-width: 1200px){
+.topbar {
+    display: none;
+}
+}
+@media only screen and (max-width: 992px){
+.section2 .sec2 {
+    text-align: center;
+}
+.truckbox {
+    display: flex;
+    justify-content: center;
+}
+.section10 .container {
+    max-width: 992px;
+}
+}
+@media only screen and (max-width: 768px){
+.section3 h3 {
+    font-size: 32px;
+}
+}
+
+
+
+
+@media only screen and (max-width: 576px){
+.section2 h1 {
+    font-size: 42px;
+    line-height: 50px;
+}
+.truck{
+    position: unset !important;
+    width: 80%;
+}
+.footer_last .f1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer_last .f2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.section5 h3 {
+    margin-bottom: 128px;
+    font-size: 32px;
+}
+.section7 h3 {
+    font-size: 38px;
+}
+.sec9_bg {
+    padding: 30px 15px;
+}
+}
+@media only screen and (max-width: 567px){
+    .section8 h3 {
+        font-size: 38px;
+    }
+    
+
+}
+@media only screen and (max-width: 562px){
+.section10 .container {
+    padding: 65px 0px;
+    padding-left: 2px;
+}
+}
+
